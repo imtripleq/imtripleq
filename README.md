@@ -1,59 +1,40 @@
-![Header](./github-header-image.png)
+<h1 align="center">Dennis Khor</h1>
+<p align="center">Senior Engineer at Screenrights · Sydney, Australia</p>
 
-## Hi there, I'm Dennis Khor 👋
+```console
+$ whoami
+senior engineer. i build the systems that keep rights holders paid.
 
-### About Me
+$ history | tail -1
+12 years in construction and project management, then a hard left turn
 
-- 🛠️ I’m currently working on a cross-platform shopping list app using React Native, Expo, and Tamagui.
-- 🌱 I’m currently learning advanced Firebase features and Stripe integration.
-- 💬 Ask me about front-end development, JavaScript, React.js, Vue.js, and integrating payment methods.
-- 👨‍💻 I'm a software developer based in Sydney, Australia with experience in e-commerce, travel agencies, and insurance projects.
-- 📫 How to reach me: denniskcc@hotmail.com
-- 😄 Pronouns: he/him
-- 👨‍👩‍👧‍👦 I have a newborn daughter and an older son.
-- 🚴 I enjoy cycling and often go for long rides on weekends.
+$ ls ~/obsessions
+agents/   automation/   guardrails/   cost_models/
+```
 
-### Technologies & Tools
+### What I actually do
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=material-ui)
-![Styled-Components](https://img.shields.io/badge/-Styled--Components-black?style=flat-square&logo=styled-components)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
-![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
-![Tamagui](https://img.shields.io/badge/-Tamagui-black?style=flat-square&logo=)
-![Vuestorefront](https://img.shields.io/badge/-Vuestorefront-black?style=flat-square&logo=vuestorefront)
-![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
-![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+Full stack in TypeScript: NestJS APIs, React on top, AWS underneath. Recently that has meant moving our entire identity layer onto Cognito without waking anyone up at 3am, and building Neo, an internal assistant on Bedrock that searches across Slack, Confluence and GitHub so nobody has to.
 
-### GitHub Stats
+I care about the unglamorous parts. Evaluating agents properly. Putting guardrails on them. Keeping them cheap enough to actually run.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtripleq&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtripleq&layout=compact&theme=radical)
+### Stack
 
-### Projects
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-- [Shopping List App](https://github.com/imtripleq/easy-shoppinglist) - A cross-platform shopping list app with features like predictive text input, bullet listing, tick/untick items, group items, offline functionality, and more.
-- [Web Portfolio](https://github.com/imtripleq/react_portfolio_mui) - Built in 2021, might give it a refresh anytime soon!
-- [Nextjs + Strapi](https://github.com/imtripleq/dennis-strapi-nextjs-tailwind) - Nextjs project using boilerplate to quickly set up Strapi
+### Side quests
 
-### Connect with Me
+Most of my day job lives in private repos, so what's public here is the tinkering. A fork of input-leap bent to fit my own desk setup. A couple of Unity experiments. A GraphQL character browser I built purely to learn Apollo.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/denniskhor3139/)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:denniskcc@hotmail.com)
+Plan properly, keep a contingency, own it until it's done. Turns out that transfers from bricklaying more cleanly than you would expect.
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/denniskhor3139) · [Portfolio](https://denniskcc.netlify.app/)
