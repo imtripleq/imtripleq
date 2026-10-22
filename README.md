@@ -1,6 +1,13 @@
 <h1 align="center">Dennis Khor</h1>
 <p align="center">Senior software engineer at Screenrights · AI agents in production · Sydney, Australia</p>
-<p align="center"><a href="https://denniskhor.com">denniskhor.com</a> · <a href="https://denniskhor.com/ask">Ask my AI agent</a> · <a href="https://denniskhor.com/cv">CV</a> · <a href="https://www.linkedin.com/in/denniskhor3139/">LinkedIn</a></p>
+<h2 align="center"><a href="https://denniskhor.com">denniskhor.com</a></h2>
+<p align="center"><b>My portfolio: a case study for every project, and an AI agent you can question.</b></p>
+<p align="center">
+  <a href="https://denniskhor.com"><img alt="Visit my portfolio: denniskhor.com" src="https://img.shields.io/badge/Portfolio-denniskhor.com-1A365D?style=for-the-badge"></a>
+  <a href="https://denniskhor.com/ask"><img alt="Ask my AI agent" src="https://img.shields.io/badge/Ask_my_AI_agent-paste_a_job_ad-2B6CB0?style=for-the-badge"></a>
+  <a href="https://denniskhor.com/cv"><img alt="CV" src="https://img.shields.io/badge/CV-denniskhor.com%2Fcv-4A5568?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/denniskhor3139/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-denniskhor3139-0A66C2?style=for-the-badge"></a>
+</p>
 
 ### What I do
 
