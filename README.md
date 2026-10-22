@@ -1,40 +1,19 @@
 <h1 align="center">Dennis Khor</h1>
-<p align="center">Senior Engineer at Screenrights · Sydney, Australia</p>
+<p align="center">Senior software engineer at Screenrights · AI agents in production · Sydney, Australia</p>
+<p align="center"><a href="https://denniskhor.com">denniskhor.com</a> · <a href="https://denniskhor.com/ask">Ask my AI agent</a> · <a href="https://denniskhor.com/cv">CV</a> · <a href="https://www.linkedin.com/in/denniskhor3139/">LinkedIn</a></p>
 
-```console
-$ whoami
-senior engineer. i build the systems that keep rights holders paid.
+### What I do
 
-$ history | tail -1
-12 years in construction and project management, then a hard left turn
+I build AI agents into real workflows, and the full-stack systems around them. At work I turned an internal Slack assistant into a tool-calling agent that cites its sources, and led the assistant side of its move onto Claude on Amazon Bedrock. Anything it drafts is filed or published only when a person asks. I also led a member sign-in migration from Auth0 to AWS Cognito with no maintenance window.
 
-$ ls ~/obsessions
-agents/   automation/   guardrails/   cost_models/
-```
-
-### What I actually do
-
-Full stack in TypeScript: NestJS APIs, React on top, AWS underneath. Recently that has meant moving our entire identity layer onto Cognito without waking anyone up at 3am, and building Neo, an internal assistant on Bedrock that searches across Slack, Confluence and GitHub so nobody has to.
-
-I care about the unglamorous parts. Evaluating agents properly. Putting guardrails on them. Keeping them cheap enough to actually run.
+My portfolio runs its own AI agent. It answers only from my write-ups, cites its sources, runs under a hard spend cap and publishes its retrieval eval. Ask it about my work, or paste a job ad for a cited fit check: [denniskhor.com/ask](https://denniskhor.com/ask).
 
 ### Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+TypeScript, Python, React, Next.js, NestJS, Node.js · Claude on Amazon Bedrock and the Anthropic API · AWS (Lambda, ECS Fargate, EventBridge, SQS, Cognito, CDK), Terraform, Cloudflare Workers · Playwright, Vitest, Jest, Cypress
 
-### Side quests
+### What's public here
 
-Most of my day job lives in private repos, so what's public here is the tinkering. A fork of input-leap bent to fit my own desk setup. A couple of Unity experiments. A GraphQL character browser I built purely to learn Apollo.
+Most of my work lives in private repositories: my employer's code, client sites and my own products. The case studies at [denniskhor.com](https://denniskhor.com) explain how each one was built. Public here: a fix to Input Leap's Windows auto-config in my fork, and a GraphQL character browser from 2024.
 
-Plan properly, keep a contingency, own it until it's done. Turns out that transfers from bricklaying more cleanly than you would expect.
-
-### Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/denniskhor3139) · [Portfolio](https://denniskcc.netlify.app/)
+Before software I spent 7 years as a construction site manager. Plan properly, keep a contingency, own it until it's done.
